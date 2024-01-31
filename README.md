@@ -22,4 +22,11 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alihazrati99&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=alihazrati99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
+
+1. [Repository 1](https://github.com/yourusername/repo1)
+2. [Repository 2](https://github.com/yourusername/repo2)
+3. [Repository 3](https://github.com/yourusername/repo3)
+4. [Repository 4](https://github.com/yourusername/repo4)
+5. [Repository 5](https://github.com/yourusername/repo5)
+
