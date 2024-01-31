@@ -22,10 +22,9 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alihazrati99&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+### 🧠 Live Tech Insights
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">Tweets by Elon Musk</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### 🧠 Tech Quote:
-> "The only way to do great work is to love what you do."
-> - Steve Jobs
 
 
 ### 🔝 Top Contributed Repo
