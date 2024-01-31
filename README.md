@@ -22,8 +22,6 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alihazrati99&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🧠 Elon Musk's Tech Insights
-[![Elon Musk's Twitter](https://img.shields.io/twitter/follow/elonmusk?style=social)](https://twitter.com/elonmusk)
 
 
 
