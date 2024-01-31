@@ -25,8 +25,8 @@
 ### 🔝 Top Contributed Repositories
 
 1. [Soccer Score Tracker Android App](https://github.com/Alihazrati99/soccer-score-tracker-app)
-2. [Repository 2](https://github.com/yourusername/repo2)
-3. [Repository 3](https://github.com/yourusername/repo3)
-4. [Repository 4](https://github.com/yourusername/repo4)
-5. [Repository 5](https://github.com/yourusername/repo5)
+2. [Cash Register Android App](https://github.com/Alihazrati99/cash-register-app-android)
+3. [Quiz App for Android](https://github.com/Alihazrati99/quiz-app-android)
+4. [OOP 344 - Object-Oriented Programming II (Seneca College)](https://github.com/Alihazrati99/OOP344---Object-Oriented-Programming-II-Using-C-)
+5. [PyTranslator](https://github.com/Alihazrati99/PyTranslator)
 
