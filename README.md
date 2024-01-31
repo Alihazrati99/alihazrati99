@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/alihazrati99/alihazrati99/raw/main/assets/header.gif" alt="Header Image">
 </div>
-# 👋 Hello, I'm Ali Hazrati
+# 
+👋 Hello, I'm Ali Hazrati
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alihazratee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihazrati99)
