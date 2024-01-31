@@ -14,8 +14,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alihazrati99&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Joke
-![Programming Joke](https://icanhazdadjoke.com/j/programming.png)
+### 🧠 Intelligent Quote
+![Intelligent Quote](https://api.quotable.io/random?tags=programming)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alihazrati99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
