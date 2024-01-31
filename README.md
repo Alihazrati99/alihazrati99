@@ -30,3 +30,13 @@
 
 ---
 [![Profile Visits](https://visitcount.itsvg.in/api?id=alihazrati99&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+
+
+### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=alihazrati99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![Profile Visits](https://visitcount.itsvg.in/api?id=alihazrati99&icon=2&color=1)](https://github.com/alihazrati99)
+
