@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/alihazrati99/alihazrati99/raw/main/assets/header.gif" alt="Header Image">
 </div>
-
 # 👋 Hello, I'm Ali Hazrati
 
 ## 🌐 Connect with me:
